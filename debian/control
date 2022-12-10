@@ -1,0 +1,22 @@
+Source: zsh-autosuggestions
+Section: shells
+Homepage: https://github.com/zsh-users/zsh-autosuggestions
+Priority: optional
+Standards-Version: 4.5.1
+Vcs-Git: https://salsa.debian.org/debian/zsh-autosuggestions.git
+Vcs-Browser: https://salsa.debian.org/debian/zsh-autosuggestions
+Maintainer: Mo Zhou <lumin@debian.org>
+Build-Depends: debhelper-compat (= 13),
+Rules-Requires-Root: no
+
+Package: zsh-autosuggestions
+Architecture: all
+Depends: ${misc:Depends}, zsh,
+Enhances: zsh
+Description: Fish-like fast/unobtrusive autosuggestions for zsh
+ As you type commands, you will see a completion offered after the cursor
+ in a muted gray color. If you press the right-arrow key or End with the
+ cursor at the end of the buffer, it will accept the suggestion, replacing
+ the contents of the command line buffer with the suggestion. If you invoke
+ the forward-word widget, it will partially accept the suggestion up to the
+ point that the cursor moves to.

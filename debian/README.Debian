@@ -1,0 +1,15 @@
+## Installation
+
+Add the following to your `.zshrc`:
+
+  source /usr/share/zsh-autosuggestions/zsh-autosuggestions.zsh
+
+then start a new terminal session.
+
+## Tips
+
+1. To mimic fish's auto-completion by pressing Ctrl+F
+
+```
+bindkey '^F' autosuggest-accept
+```

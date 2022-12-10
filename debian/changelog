@@ -1,0 +1,59 @@
+zsh-autosuggestions (0.7.0-1) unstable; urgency=medium
+
+  [ Debian Janitor ]
+  * Bump debhelper from old 12 to 13.
+  * Set upstream metadata fields: Bug-Database, Bug-Submit, Repository,
+    Repository-Browse.
+  * Update standards version to 4.5.1, no changes needed.
+
+  [ Mo Zhou ]
+  * New upstream version 0.7.0
+
+ -- Mo Zhou <lumin@debian.org>  Tue, 04 Jan 2022 09:40:19 -0500
+
+zsh-autosuggestions (0.6.4-1) unstable; urgency=medium
+
+  * New upstream version 0.6.4
+  * Specify Rules-Requires-Root: no
+
+ -- Mo Zhou <lumin@debian.org>  Mon, 13 Jan 2020 11:19:31 +0800
+
+zsh-autosuggestions (0.6.3-3) unstable; urgency=medium
+
+  * README.Debian: add a small tips about C^F keybinding.
+  * Bump Standards-Version to 4.4.1 (no change).
+  * Change my mail address, and refresh the year in copyright.
+
+ -- Mo Zhou <lumin@debian.org>  Thu, 26 Dec 2019 19:31:53 +0800
+
+zsh-autosuggestions (0.6.3-2) unstable; urgency=medium
+
+  * Upload to unstable.
+
+ -- Mo Zhou <cdluminate@gmail.com>  Mon, 08 Jul 2019 06:19:47 +0000
+
+zsh-autosuggestions (0.6.3-1) experimental; urgency=medium
+
+  * New upstream version 0.6.3
+
+ -- Mo Zhou <cdluminate@gmail.com>  Tue, 25 Jun 2019 04:37:31 +0000
+
+zsh-autosuggestions (0.5.2-1) experimental; urgency=medium
+
+  * New upstream version 0.5.2
+  * Bump debhelper compat level to 12.
+  * Bump Standards-Version to 4.3.0 (no change).
+
+ -- Mo Zhou <cdluminate@gmail.com>  Sun, 14 Apr 2019 02:06:12 +0000
+
+zsh-autosuggestions (0.5.0-1) unstable; urgency=medium
+
+  * New upstream version 0.5.0
+
+ -- Mo Zhou <cdluminate@gmail.com>  Tue, 04 Dec 2018 08:45:34 +0000
+
+zsh-autosuggestions (0.4.3-1) unstable; urgency=medium
+
+  * Initial release. (Closes: #913618)
+
+ -- Mo Zhou <cdluminate@gmail.com>  Sun, 25 Nov 2018 10:40:59 +0000
