@@ -1,0 +1,9 @@
+Ubuntu testing demo.
+--- /dev/null
++++ b/testing.sh
+@@ -0,0 +1,5 @@
++#!/usr/bin/env bash
++# Filename: testing.sh
++# author: 'Jia Chao'
++
++echo "this is a test from Jia Chao"

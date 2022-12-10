@@ -1,3 +1,9 @@
+zsh-autosuggestions (0.7.0-2) jammy; urgency=medium
+
+  * This is a test from Jia Chao
+
+ -- Jia Chao <jiachao2130@126.com>  Sat, 10 Dec 2022 02:10:23 +0800
+
 zsh-autosuggestions (0.7.0-1) unstable; urgency=medium
 
   [ Debian Janitor ]
